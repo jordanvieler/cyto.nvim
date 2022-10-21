@@ -12,4 +12,4 @@ Right now only ipython is supported.
 
 This allows for some interesting things, like having multiple buffers bound to the same ipython instance. Or multiple buffers bound to different ipython instances. Every buffer could have a different set of cell deliminators and/or keybindings if you were really clever.
 
-More Instructions to come.
+More To Come
