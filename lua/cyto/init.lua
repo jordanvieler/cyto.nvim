@@ -1,6 +1,7 @@
 M = {}
 
 -- local utility functions
+table.unpack = table.unpack or unpack -- 5.1 compatibility
 
 -- TODO WHEN EXPANDING LANGUAGE: Refactor to be more modular and add language specifics to a module
 -- TODO Something to run a script and drop into python repl
